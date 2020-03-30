@@ -1,0 +1,4 @@
+Implementation:
+	Create and Setup Github repo -- Tue. Mar 17th by 5pm (estimate: 5 mins)
+	Draft the Level Design Sketch for the Game -- Tue. Mar 31st by 12pm (estimate: 1 hr)
+	Create a Simple Spiked Trap to interact with the player -- Tue. Mar 31st by 7pm (estimate: 1 hrs)
