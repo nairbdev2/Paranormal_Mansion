@@ -2,6 +2,7 @@
 
 Implementation:
 		Develop basic third-person controllers with camera that is interactable with the mouse (3 hrs)
-		Develop a puzzle to open a door.
+		Develop a puzzle to open a door. (4hrs)
+		
 
 
