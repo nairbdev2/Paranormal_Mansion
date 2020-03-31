@@ -8,6 +8,7 @@ public class ThirdPersonCharacterControl : MonoBehaviour
     public Transform camPivot;
     float heading = 0;
     public Transform cam;
+    public GameObject spawnpoint;
 
     Vector3 camF;
     Vector3 camR;
@@ -18,6 +19,7 @@ public class ThirdPersonCharacterControl : MonoBehaviour
     private void Start()
     {
         GetComponent<Animation>().Play("Idle");
+
 
     }
     void Update()
@@ -76,8 +78,13 @@ public class ThirdPersonCharacterControl : MonoBehaviour
             Debug.Log("called next");
             FindObjectOfType<GameManager>().nextScene();
         }
-    }
 
+        if (collision.gameObject.tag == "Trap")
+        {
+            Debug.Log("Player Loses a Life!");
+            transform.position = spawnpoint.transform.position; 
+        }
+    }
 }
 /*
 public float Speed = 5f;
