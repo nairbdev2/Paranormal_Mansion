@@ -1,0 +1,17 @@
+
+ - My character (any kind) is tagged as 'Player' but the doors won't open for him.
+ - Make sure you have a collider that triggers the event (Capsule, ideally)
+ 
+ - The living room seen on the Asset Store photo is not part of the package. Why?
+ - Yes it is. Drag 'Greyplaster' material to the living room's walls and 'Woodenfloor' to its floor. (House version 1)
+ 
+ - My character doesn't collide with the door when its open but I can't seem to find what code switches it off.
+ - The animation clips themselves (Maindoor and roomdoors) turn the colliders off to prevent the character from getting stuck behind the door.
+ Remove the respective animation key from both animation clips to keep the collider always on.
+ 
+ - I'm having trouble changing audio clips for the different events.
+ - Click on 'Access raw inspector' with the house selected to access arrays that store audio clips.
+ 
+ 
+ 
+ 
