@@ -7,13 +7,13 @@ CS426 Video Game Programming Assignment #6
 * Unity Game Engine Installed
 
 ## How to Play the Game
-Simply go to the 'Output' Folder and double-click on '_' (Later to be implemented)
+Simply go to the 'Output' Folder and double-click on 'Prototype' (Later to be implemented)
 
 ## How to Setup the Project
 * Download the github repo
 * Open UnityHub and 'Add' the project folder named 'Multiplayer Assignment' (Later to be implemented)
 * Double-click and launch Project (Ignore warnings if saying it's an old project)
-* Go to Scenes and double-click on 'main'
+* Go to Scenes/Main_Scenes and double-click on 'Main_1_scene.unity'
 
 ## Resource Links Used
 TextMeshPro
