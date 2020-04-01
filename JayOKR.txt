@@ -1,4 +1,4 @@
 Implementation:
-  Populate rooms with various items |- March 31st approx 1hr
-  Basic UI                          |- March 31st approx 1hr
+  Create and populate rooms with various items |- March 31st approx 2hrs
+  Basic UI                                     |- March 31st approx 1hr
   
