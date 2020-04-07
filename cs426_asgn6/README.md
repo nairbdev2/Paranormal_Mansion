@@ -1,8 +1,7 @@
-# cs426_Group1_Asgn7
+# cs426_Group1_Asgn6
 
 ## Note
-CS426 Video Game Programming Assignment #7
-Working with AI and some Level Designing
+CS426 Video Game Programming Assignment #6
 
 ## Pre-Requisites
 * Unity Game Engine Installed
