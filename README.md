@@ -1,7 +1,7 @@
-# cs426_Group1_Asgn6
+# cs426_Group1
 
 ## Note
-CS426 Video Game Programming Assignment #6
+CS426 Video Game Final Project
 
 ## Pre-Requisites
 * Unity Game Engine Installed
@@ -11,7 +11,7 @@ Simply go to the 'Output' Folder and double-click on 'Prototype' (Later to be im
 
 ## How to Setup the Project
 * Download the github repo
-* Open UnityHub and 'Add' the project folder named 'Multiplayer Assignment' (Later to be implemented)
+* Open UnityHub and 'Add' the project folder named 'Prototype'
 * Double-click and launch Project (Ignore warnings if saying it's an old project)
 * Go to Scenes/Main_Scenes and double-click on 'Main_1_scene.unity'
 
