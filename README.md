@@ -32,8 +32,9 @@ Procedures:
   - Move around with 'W','A','S','D'
   - Start / Pause Game with 'Esc'
   - Interact with Object with 'E'
-  - Turn On/Off Flashlight with 'F'
+  - Turn On/Off Flashlight with 'R'
   - Show Inventory with 'I'
+  - Sprint / Dash with 'Spacebar'
   - Mouse Look Around
 
 Rules: 
