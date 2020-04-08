@@ -67,9 +67,10 @@ Summary Assignment #7:
 		x1 Flashlight Spotlight
 
 	Mecanim and AI:
-		White Ghost (Predetermined Path)
-		Yellow Ghost (Runs away from Flashlight)
-		Spider (Runs towards player)
+		White Ghost (AI: Predetermined Path) (Created by Brian De Villa)
+		Yellow Ghost (AI: Runs away from Flashlight) (Created by Ali Saleh)
+		Spider (AI: Runs towards player) (Created by Jay Patel)
+		Tom the Cat (Player Mecanim) (Ali Saleh)
 	
 	Physics:
 		Red Curtain cloth physics
