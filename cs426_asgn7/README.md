@@ -17,7 +17,8 @@ Simply go to the 'Output' Folder and double-click on 'Prototype' (Later to be im
 * Go to Scenes/Main_Scenes and double-click on 'Main_1_scene.unity'
 
 ## Resource Links Used
-TextMeshPro
+* TextMeshPro
+* [Ghost Sound Effect](https://freesound.org/people/Litruv/sounds/175944/)
 
 ## Models / Textures  
 
