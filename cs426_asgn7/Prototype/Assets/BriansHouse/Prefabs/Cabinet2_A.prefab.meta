@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 5b0481f4a4129d647a28d7fad1e52256
+labels:
+- shelf
+- desk
+- drawer
+- wardrobe
+- cabinet
+- Cabinet
+- Closet
+- Desk
+- Drawer
+- Shelf
+- Wardrobe
+timeCreated: 1440512839
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

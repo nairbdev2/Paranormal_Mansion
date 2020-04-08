@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: ab2d0c1ea120fd9419a59e3573ee8cb3
+labels:
+- Exterior
+- Interior
+- House
+- Building
+- Home
+- Residential
+- Suburban
+- Suburb
+timeCreated: 1447418386
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
