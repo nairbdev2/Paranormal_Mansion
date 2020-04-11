@@ -1,0 +1,161 @@
+fileFormatVersion: 2
+guid: 1829772643c613d4fb2d40f75bb8f653
+timeCreated: 1447631604
+licenseType: Store
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Plate.013
+    100002: Plate.014
+    100004: Plate.015
+    100006: Plate.016
+    100008: Plate.017
+    100010: Plate.018
+    100012: Plate.019
+    100014: Plate.020
+    100016: Plate.021
+    100018: Plate.022
+    100020: Plate.024
+    100022: Plate.025
+    100024: Plate.026
+    100026: Plate.027
+    100028: Plate.028
+    100030: //RootNode
+    400000: Plate.013
+    400002: Plate.014
+    400004: Plate.015
+    400006: Plate.016
+    400008: Plate.017
+    400010: Plate.018
+    400012: Plate.019
+    400014: Plate.020
+    400016: Plate.021
+    400018: Plate.022
+    400020: Plate.024
+    400022: Plate.025
+    400024: Plate.026
+    400026: Plate.027
+    400028: Plate.028
+    400030: //RootNode
+    2300000: Plate.013
+    2300002: Plate.014
+    2300004: Plate.015
+    2300006: Plate.016
+    2300008: Plate.017
+    2300010: Plate.018
+    2300012: Plate.019
+    2300014: Plate.020
+    2300016: Plate.021
+    2300018: Plate.022
+    2300020: Plate.024
+    2300022: Plate.025
+    2300024: Plate.026
+    2300026: Plate.027
+    2300028: Plate.028
+    3300000: Plate.013
+    3300002: Plate.014
+    3300004: Plate.015
+    3300006: Plate.016
+    3300008: Plate.017
+    3300010: Plate.018
+    3300012: Plate.019
+    3300014: Plate.020
+    3300016: Plate.021
+    3300018: Plate.022
+    3300020: Plate.024
+    3300022: Plate.025
+    3300024: Plate.026
+    3300026: Plate.027
+    3300028: Plate.028
+    4300000: Plate.028
+    4300002: Plate.027
+    4300004: Plate.026
+    4300006: Plate.025
+    4300008: Plate.024
+    4300010: Plate.022
+    4300012: Plate.021
+    4300014: Plate.020
+    4300016: Plate.019
+    4300018: Plate.018
+    4300020: Plate.017
+    4300022: Plate.016
+    4300024: Plate.015
+    4300026: Plate.014
+    4300028: Plate.013
+    6400000: Plate.013
+    6400002: Plate.014
+    6400004: Plate.015
+    6400006: Plate.016
+    6400008: Plate.017
+    6400010: Plate.018
+    6400012: Plate.019
+    6400014: Plate.020
+    6400016: Plate.021
+    6400018: Plate.022
+    6400020: Plate.024
+    6400022: Plate.025
+    6400024: Plate.026
+    6400026: Plate.027
+    6400028: Plate.028
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 1
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

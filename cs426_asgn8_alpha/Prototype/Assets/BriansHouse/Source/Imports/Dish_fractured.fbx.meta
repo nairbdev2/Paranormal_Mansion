@@ -1,0 +1,191 @@
+fileFormatVersion: 2
+guid: b04b6008997ecef4da1150311736d57c
+timeCreated: 1447631253
+licenseType: Store
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Dish.019
+    100002: Dish.020
+    100004: Dish.021
+    100006: Dish.022
+    100008: Dish.023
+    100010: Dish.024
+    100012: Dish.026
+    100014: Dish.027
+    100016: Dish.028
+    100018: Dish.029
+    100020: Dish.030
+    100022: Dish.031
+    100024: Dish.032
+    100026: Dish.033
+    100028: Dish.034
+    100030: Dish.035
+    100032: Dish.036
+    100034: Dish.037
+    100036: Dish.038
+    100038: Dish.039
+    100040: //RootNode
+    400000: Dish.019
+    400002: Dish.020
+    400004: Dish.021
+    400006: Dish.022
+    400008: Dish.023
+    400010: Dish.024
+    400012: Dish.026
+    400014: Dish.027
+    400016: Dish.028
+    400018: Dish.029
+    400020: Dish.030
+    400022: Dish.031
+    400024: Dish.032
+    400026: Dish.033
+    400028: Dish.034
+    400030: Dish.035
+    400032: Dish.036
+    400034: Dish.037
+    400036: Dish.038
+    400038: Dish.039
+    400040: //RootNode
+    2300000: Dish.019
+    2300002: Dish.020
+    2300004: Dish.021
+    2300006: Dish.022
+    2300008: Dish.023
+    2300010: Dish.024
+    2300012: Dish.026
+    2300014: Dish.027
+    2300016: Dish.028
+    2300018: Dish.029
+    2300020: Dish.030
+    2300022: Dish.031
+    2300024: Dish.032
+    2300026: Dish.033
+    2300028: Dish.034
+    2300030: Dish.035
+    2300032: Dish.036
+    2300034: Dish.037
+    2300036: Dish.038
+    2300038: Dish.039
+    3300000: Dish.019
+    3300002: Dish.020
+    3300004: Dish.021
+    3300006: Dish.022
+    3300008: Dish.023
+    3300010: Dish.024
+    3300012: Dish.026
+    3300014: Dish.027
+    3300016: Dish.028
+    3300018: Dish.029
+    3300020: Dish.030
+    3300022: Dish.031
+    3300024: Dish.032
+    3300026: Dish.033
+    3300028: Dish.034
+    3300030: Dish.035
+    3300032: Dish.036
+    3300034: Dish.037
+    3300036: Dish.038
+    3300038: Dish.039
+    4300000: Dish.039
+    4300002: Dish.038
+    4300004: Dish.037
+    4300006: Dish.036
+    4300008: Dish.035
+    4300010: Dish.034
+    4300012: Dish.033
+    4300014: Dish.032
+    4300016: Dish.031
+    4300018: Dish.030
+    4300020: Dish.029
+    4300022: Dish.028
+    4300024: Dish.027
+    4300026: Dish.026
+    4300028: Dish.024
+    4300030: Dish.023
+    4300032: Dish.022
+    4300034: Dish.021
+    4300036: Dish.020
+    4300038: Dish.019
+    6400000: Dish.019
+    6400002: Dish.020
+    6400004: Dish.021
+    6400006: Dish.022
+    6400008: Dish.023
+    6400010: Dish.024
+    6400012: Dish.026
+    6400014: Dish.027
+    6400016: Dish.028
+    6400018: Dish.029
+    6400020: Dish.030
+    6400022: Dish.031
+    6400024: Dish.032
+    6400026: Dish.033
+    6400028: Dish.034
+    6400030: Dish.035
+    6400032: Dish.036
+    6400034: Dish.037
+    6400036: Dish.038
+    6400038: Dish.039
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 1
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

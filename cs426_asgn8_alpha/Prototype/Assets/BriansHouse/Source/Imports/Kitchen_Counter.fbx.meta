@@ -1,0 +1,124 @@
+fileFormatVersion: 2
+guid: 96d7aef327895cf47b9cc8b98f7c8307
+timeCreated: 1447603722
+licenseType: Store
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Kitchen_Counter.001
+    100004: Kitchen_Counter.003
+    100006: Kitchen_Counter.004
+    100008: Kitchen_Counter.005
+    100010: Kitchen_Counter.006
+    100012: Kitchen_Counter.007
+    100014: Kitchen_Counter.008
+    100016: Kitchen_Counter.009
+    100018: Kitchen_Counter.010
+    100020: Tap_Kitchen
+    400000: //RootNode
+    400002: Kitchen_Counter.001
+    400004: Kitchen_Counter.003
+    400006: Kitchen_Counter.004
+    400008: Kitchen_Counter.005
+    400010: Kitchen_Counter.006
+    400012: Kitchen_Counter.007
+    400014: Kitchen_Counter.008
+    400016: Kitchen_Counter.009
+    400018: Kitchen_Counter.010
+    400020: Tap_Kitchen
+    2300000: //RootNode
+    2300002: Kitchen_Counter.001
+    2300004: Kitchen_Counter.003
+    2300006: Kitchen_Counter.004
+    2300008: Kitchen_Counter.005
+    2300010: Kitchen_Counter.006
+    2300012: Kitchen_Counter.007
+    2300014: Kitchen_Counter.008
+    2300016: Kitchen_Counter.009
+    2300018: Kitchen_Counter.010
+    2300020: Tap_Kitchen
+    3300000: //RootNode
+    3300002: Kitchen_Counter.001
+    3300004: Kitchen_Counter.003
+    3300006: Kitchen_Counter.004
+    3300008: Kitchen_Counter.005
+    3300010: Kitchen_Counter.006
+    3300012: Kitchen_Counter.007
+    3300014: Kitchen_Counter.008
+    3300016: Kitchen_Counter.009
+    3300018: Kitchen_Counter.010
+    3300020: Tap_Kitchen
+    4300000: Kitchen_Counter
+    4300002: Kitchen_Counter.005
+    4300004: Kitchen_Counter.006
+    4300006: Kitchen_Counter.001
+    4300008: Kitchen_Counter.010
+    4300010: Kitchen_Counter.009
+    4300012: Kitchen_Counter.008
+    4300014: Kitchen_Counter.007
+    4300016: Kitchen_Counter.003
+    4300018: Kitchen_Counter.004
+    4300020: Tap_Kitchen
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 1
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

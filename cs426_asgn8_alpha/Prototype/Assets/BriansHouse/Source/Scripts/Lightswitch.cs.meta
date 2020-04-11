@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 22f8060a5ccd64f4489faedf491653ca
+timeCreated: 1447604798
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - lightOn: {fileID: 8300000, guid: faf7dff80a502b84fb41422f62c02854, type: 3}
+  - lightOff: {fileID: 8300000, guid: f83f7e6dbd8cdb544b336f95c3331317, type: 3}
+  - probe: {instanceID: 0}
+  - lamp: {instanceID: 0}
+  - lampsMat: {fileID: 2100000, guid: 07ed59fcafaf59444a3538fcb037f9f2, type: 2}
+  - lampsEmissionMat: {fileID: 2100000, guid: 0640826dab384ea41a3ce46f0cb8d914, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

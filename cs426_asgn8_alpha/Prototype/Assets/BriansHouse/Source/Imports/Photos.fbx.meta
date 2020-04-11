@@ -1,0 +1,165 @@
+fileFormatVersion: 2
+guid: 8264245a5e7ff0e49baa6f746b5f36e7
+labels:
+- Interior
+- House
+- Exterior
+timeCreated: 1440531851
+licenseType: Store
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Photo1
+    100002: Photo10
+    100004: Photo11
+    100006: Photo12
+    100008: Photo13
+    100010: Photo14
+    100012: Photo15
+    100014: Photo2
+    100016: Photo3
+    100018: Photo4
+    100020: Photo5
+    100022: Photo6
+    100024: Photo7
+    100026: Photo8
+    100028: Photo9
+    100030: //RootNode
+    400000: Photo1
+    400002: Photo10
+    400004: Photo11
+    400006: Photo12
+    400008: Photo13
+    400010: Photo14
+    400012: Photo15
+    400014: Photo2
+    400016: Photo3
+    400018: Photo4
+    400020: Photo5
+    400022: Photo6
+    400024: Photo7
+    400026: Photo8
+    400028: Photo9
+    400030: //RootNode
+    2300000: Photo1
+    2300002: Photo10
+    2300004: Photo11
+    2300006: Photo12
+    2300008: Photo13
+    2300010: Photo14
+    2300012: Photo15
+    2300014: Photo2
+    2300016: Photo3
+    2300018: Photo4
+    2300020: Photo5
+    2300022: Photo6
+    2300024: Photo7
+    2300026: Photo8
+    2300028: Photo9
+    3300000: Photo1
+    3300002: Photo10
+    3300004: Photo11
+    3300006: Photo12
+    3300008: Photo13
+    3300010: Photo14
+    3300012: Photo15
+    3300014: Photo2
+    3300016: Photo3
+    3300018: Photo4
+    3300020: Photo5
+    3300022: Photo6
+    3300024: Photo7
+    3300026: Photo8
+    3300028: Photo9
+    4300000: Photo15
+    4300002: Photo14
+    4300004: Photo13
+    4300006: Photo12
+    4300008: Photo11
+    4300010: Photo10
+    4300012: Photo9
+    4300014: Photo8
+    4300016: Photo7
+    4300018: Photo6
+    4300020: Photo5
+    4300022: Photo4
+    4300024: Photo3
+    4300026: Photo2
+    4300028: Photo1
+    6400000: Photo1
+    6400002: Photo10
+    6400004: Photo11
+    6400006: Photo12
+    6400008: Photo13
+    6400010: Photo14
+    6400012: Photo15
+    6400014: Photo2
+    6400016: Photo3
+    6400018: Photo4
+    6400020: Photo5
+    6400022: Photo6
+    6400024: Photo7
+    6400026: Photo8
+    6400028: Photo9
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 1
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

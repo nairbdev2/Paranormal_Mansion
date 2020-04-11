@@ -1,0 +1,175 @@
+fileFormatVersion: 2
+guid: b9274419719c395438d4a3b032867511
+labels:
+- Interior
+- House
+- Exterior
+timeCreated: 1440531249
+licenseType: Store
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Book1
+    100002: Book10
+    100004: Book11
+    100006: Book12
+    100008: Book13
+    100010: Book14
+    100012: Book15
+    100014: Book16
+    100016: Book17
+    100018: Book18
+    100020: Book19
+    100022: Book2
+    100024: Book20
+    100026: Book3
+    100028: Book4
+    100030: Book5
+    100032: Book6
+    100034: Book7
+    100036: Book8
+    100038: Book9
+    100040: //RootNode
+    400000: Book1
+    400002: Book10
+    400004: Book11
+    400006: Book12
+    400008: Book13
+    400010: Book14
+    400012: Book15
+    400014: Book16
+    400016: Book17
+    400018: Book18
+    400020: Book19
+    400022: Book2
+    400024: Book20
+    400026: Book3
+    400028: Book4
+    400030: Book5
+    400032: Book6
+    400034: Book7
+    400036: Book8
+    400038: Book9
+    400040: //RootNode
+    2300000: Book1
+    2300002: Book10
+    2300004: Book11
+    2300006: Book12
+    2300008: Book13
+    2300010: Book14
+    2300012: Book15
+    2300014: Book16
+    2300016: Book17
+    2300018: Book18
+    2300020: Book19
+    2300022: Book2
+    2300024: Book20
+    2300026: Book3
+    2300028: Book4
+    2300030: Book5
+    2300032: Book6
+    2300034: Book7
+    2300036: Book8
+    2300038: Book9
+    3300000: Book1
+    3300002: Book10
+    3300004: Book11
+    3300006: Book12
+    3300008: Book13
+    3300010: Book14
+    3300012: Book15
+    3300014: Book16
+    3300016: Book17
+    3300018: Book18
+    3300020: Book19
+    3300022: Book2
+    3300024: Book20
+    3300026: Book3
+    3300028: Book4
+    3300030: Book5
+    3300032: Book6
+    3300034: Book7
+    3300036: Book8
+    3300038: Book9
+    4300000: Book20
+    4300002: Book19
+    4300004: Book18
+    4300006: Book17
+    4300008: Book16
+    4300010: Book2
+    4300012: Book3
+    4300014: Book4
+    4300016: Book5
+    4300018: Book6
+    4300020: Book7
+    4300022: Book8
+    4300024: Book15
+    4300026: Book14
+    4300028: Book13
+    4300030: Book12
+    4300032: Book11
+    4300034: Book10
+    4300036: Book9
+    4300038: Book1
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,171 @@
+fileFormatVersion: 2
+guid: 5339e89c4526d7745908f93962751b85
+timeCreated: 1447627779
+licenseType: Store
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Vase1_Fractured.019
+    100004: Vase1_Fractured.020
+    100006: Vase1_Fractured.021
+    100008: Vase1_Fractured.022
+    100010: Vase1_Fractured.023
+    100012: Vase1_Fractured.024
+    100014: Vase1_Fractured.025
+    100016: Vase1_Fractured.026
+    100018: Vase1_Fractured.027
+    100020: Vase1_Fractured.028
+    100022: Vase1_Fractured.029
+    100024: Vase1_Fractured.030
+    100026: Vase1_Fractured.031
+    100028: Vase1_Fractured.032
+    100030: Vase1_Fractured.033
+    100032: Vase1_Fractured.034
+    100034: Vase1_Fractured.035
+    100036: Vase1_Fractured.036
+    100038: Vase1_Fractured.037
+    100040: Vase1_Fractured.038
+    400000: //RootNode
+    400002: Vase1_Fractured.019
+    400004: Vase1_Fractured.020
+    400006: Vase1_Fractured.021
+    400008: Vase1_Fractured.022
+    400010: Vase1_Fractured.023
+    400012: Vase1_Fractured.024
+    400014: Vase1_Fractured.025
+    400016: Vase1_Fractured.026
+    400018: Vase1_Fractured.027
+    400020: Vase1_Fractured.028
+    400022: Vase1_Fractured.029
+    400024: Vase1_Fractured.030
+    400026: Vase1_Fractured.031
+    400028: Vase1_Fractured.032
+    400030: Vase1_Fractured.033
+    400032: Vase1_Fractured.034
+    400034: Vase1_Fractured.035
+    400036: Vase1_Fractured.036
+    400038: Vase1_Fractured.037
+    400040: Vase1_Fractured.038
+    2300000: Vase1_Fractured.019
+    2300002: Vase1_Fractured.020
+    2300004: Vase1_Fractured.021
+    2300006: Vase1_Fractured.022
+    2300008: Vase1_Fractured.023
+    2300010: Vase1_Fractured.024
+    2300012: Vase1_Fractured.025
+    2300014: Vase1_Fractured.026
+    2300016: Vase1_Fractured.027
+    2300018: Vase1_Fractured.028
+    2300020: Vase1_Fractured.029
+    2300022: Vase1_Fractured.030
+    2300024: Vase1_Fractured.031
+    2300026: Vase1_Fractured.032
+    2300028: Vase1_Fractured.033
+    2300030: Vase1_Fractured.034
+    2300032: Vase1_Fractured.035
+    2300034: Vase1_Fractured.036
+    2300036: Vase1_Fractured.037
+    2300038: Vase1_Fractured.038
+    3300000: Vase1_Fractured.019
+    3300002: Vase1_Fractured.020
+    3300004: Vase1_Fractured.021
+    3300006: Vase1_Fractured.022
+    3300008: Vase1_Fractured.023
+    3300010: Vase1_Fractured.024
+    3300012: Vase1_Fractured.025
+    3300014: Vase1_Fractured.026
+    3300016: Vase1_Fractured.027
+    3300018: Vase1_Fractured.028
+    3300020: Vase1_Fractured.029
+    3300022: Vase1_Fractured.030
+    3300024: Vase1_Fractured.031
+    3300026: Vase1_Fractured.032
+    3300028: Vase1_Fractured.033
+    3300030: Vase1_Fractured.034
+    3300032: Vase1_Fractured.035
+    3300034: Vase1_Fractured.036
+    3300036: Vase1_Fractured.037
+    3300038: Vase1_Fractured.038
+    4300000: Vase1_Fractured.038
+    4300002: Vase1_Fractured.037
+    4300004: Vase1_Fractured.036
+    4300006: Vase1_Fractured.035
+    4300008: Vase1_Fractured.034
+    4300010: Vase1_Fractured.033
+    4300012: Vase1_Fractured.032
+    4300014: Vase1_Fractured.031
+    4300016: Vase1_Fractured.030
+    4300018: Vase1_Fractured.029
+    4300020: Vase1_Fractured.028
+    4300022: Vase1_Fractured.027
+    4300024: Vase1_Fractured.026
+    4300026: Vase1_Fractured.025
+    4300028: Vase1_Fractured.024
+    4300030: Vase1_Fractured.023
+    4300032: Vase1_Fractured.022
+    4300034: Vase1_Fractured.021
+    4300036: Vase1_Fractured.020
+    4300038: Vase1_Fractured.019
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 1
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
