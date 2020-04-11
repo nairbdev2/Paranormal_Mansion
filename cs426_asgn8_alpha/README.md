@@ -1,7 +1,7 @@
-# cs426_Group1_Asgn7
+# cs426_Group1_Asgn8 (Alpha)
 
 ## Note
-CS426 Video Game Programming Assignment #7
+CS426 Video Game Programming Assignment #8
 Working with AI and Level Design
 
 ## Pre-Requisites
