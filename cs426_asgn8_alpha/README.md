@@ -1,4 +1,4 @@
-# cs426_Group1_Asgn8 (Alpha)
+# cs426_Group9_Asgn8 (Alpha)
 
 ## Note
 CS426 Video Game Programming Assignment #8
