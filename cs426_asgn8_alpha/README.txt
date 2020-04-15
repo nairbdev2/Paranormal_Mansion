@@ -44,52 +44,28 @@ Rules:
 
 Summary Assignment #8:
 	Created the map level similar to the map design. Added Win Scene. Added Gameover Scene. Added Lives System.
-	Added Inventory System. Added Sounds. Main Menu Scene.
-
-	Textures:
-		Floor Texture
-		Bed Texture
-		Rug Texture
-		Rug2 Texture		
-		Ghost Texture
-		TV Texture
-		Couch Texture
-		Table Texture
-		Chair Texture
-		Shelf Texture
-		Plant Texture
-		Wall Texture
-
-	Lighting:
-		x3 Floating Lanterns
-		x3 Trap Spotlights
-		x1 Flashlight Spotlight
-
-	Mecanim and AI:
-		White Ghost (AI: Predetermined Path) (Created by Brian De Villa)
-		Yellow Ghost (AI: Runs away from Flashlight) (Created by Ali Saleh)
-		Spider (AI: Runs towards player) (Created by Jay Patel)
-		Tom the Cat (Player Mecanim) (Ali Saleh)
+	Added Inventory System. Added Sounds. Main Menu Scene. Added new puzzle to unlock a door.
 	
-	Physics:
-		Red Curtain cloth physics
-		Door opens after player solves the puzzle
-		Added 'Gallop' feature for the player which are able to sprint / dash fairly fast
-		Food Bowl
+	UI:
+		Current Player Lives (Top right corner)
+		Inventory System (Bottom left Corner)
 
 	Sounds:
 		Ghost wailing repeatedly
 		Flashlight clicking on or off
 		Door unlocking sound
+		Main Menu Ambient Sound
+		Main Menu Play/Quit Sound
+		Cat Meowing after losing a life
+		Win Scene Ambient Sound
+		Game Over Scene Ambient Sound
+		Dueling Swords Sound
 	
 	The components above come together with respect to gameplay and the theme because the Tom the cat is in a haunted mansion.
 	Inside the haunted mansion Tom sees ghosts, spiders, traps, floating lanterns, a curtain, and many more unusual things.
 
 	What worked and didn't work:
-		We finally fixed the issue where the player is able to rotate to where the camera is looking.
-		We had some issues with the jump feature and instead created a sprint / dash feature.
-		The Spider currently can go through walls which is an issue due to spiders are not able to go through walls in real life.
-		We were able to add a new feature where the player is able to actiavte / deactivate their flashlight by pressing 'R'
+		The GUI is not scaling properly to the resolution and the best solution is to play the game at a very low resolution.
 		
 
 
