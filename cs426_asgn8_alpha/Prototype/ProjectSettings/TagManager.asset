@@ -7,6 +7,10 @@ TagManager:
   - Door
   - Bounce
   - Trap
+  - PickUp
+  - Open
+  - Light
+  - Ghost
   layers:
   - Default
   - TransparentFX

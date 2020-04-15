@@ -42,10 +42,9 @@ Rules:
 
 
 
-Summary Assignment #7:
-	Created a new hallway connecting to the Living Room. Decorate the hallway with traps and ghosts.
-	Bedroom has 3 yellow ghosts and 1 spider. There are 3 Floating Lanterns. Each spiked trap has a spotlight.
-	Added a feature where the player can sprint / dash. Adjusted the bed collider. Added Red Curtain cloth physics.
+Summary Assignment #8:
+	Created the map level similar to the map design. Added Win Scene. Added Gameover Scene. Added Lives System.
+	Added Inventory System. Added Sounds. Main Menu Scene.
 
 	Textures:
 		Floor Texture

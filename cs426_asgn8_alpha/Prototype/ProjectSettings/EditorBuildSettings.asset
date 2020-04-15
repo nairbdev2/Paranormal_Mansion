@@ -6,21 +6,24 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 0
-    path: Assets/Scenes/asaleh22Scenes/Assets/Scenes/One.unity
-    guid: 9fc0d4010bbf28b4594072e72b8655ab
-  - enabled: 0
-    path: Assets/Scenes/asaleh22Scenes/Assets/Scenes/Two-Puzzle.unity
-    guid: 28024d562bb1f2e48ba14733fcbf55c0
-  - enabled: 0
-    path: Assets/Scenes/asaleh22Scenes/Assets/Scenes/Three-OpenDoor.unity
-    guid: 78bdb09dfcf667f46b067e855e6e3ce1
+    path: Assets/Scenes/bdevil2Scene/map_layout.unity
+    guid: 1f0ad02364c9d40f585644af24a6f45a
+  - enabled: 1
+    path: Assets/Scenes/jpate85Scene/MainMenu.unity
+    guid: 4896ef24222fb4004af196d131b7785a
   - enabled: 1
     path: Assets/Scenes/main_scenes/main_1_scene.unity
-    guid: 94c112cc02497da4cafcbfa2ccb484e8
+    guid: 5db81a0685129104e9d90b7285bc52a6
   - enabled: 1
     path: Assets/Scenes/main_scenes/main_2_scene.unity
     guid: a13828dea2825d548b119680cd9f7700
   - enabled: 1
     path: Assets/Scenes/main_scenes/main_3_scene.unity
-    guid: b07d369d490da004e8e1dc17b03d271d
+    guid: 07687728933c7ca439fdb2885ec34b53
+  - enabled: 1
+    path: Assets/Scenes/main_scenes/WinScene.unity
+    guid: 8158829d0f652d340a9c69662aac1d58
+  - enabled: 1
+    path: Assets/Scenes/main_scenes/GameOver.unity
+    guid: e70964f803b95724b8875c39a3b15494
   m_configObjects: {}
