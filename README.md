@@ -1,4 +1,4 @@
-# cs426_Group1
+# cs426_Group18
 
 ## Note
 CS426 Video Game Final Project
