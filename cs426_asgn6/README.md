@@ -1,4 +1,4 @@
-# cs426_Group18_Asgn6
+# cs426_Group9_Asgn6
 
 ## Note
 CS426 Video Game Programming Assignment #6
