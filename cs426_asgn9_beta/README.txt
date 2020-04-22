@@ -43,30 +43,25 @@ Rules:
 
 
 Summary Assignment #9:
-	Created the map level similar to the map design. Added Win Scene. Added Gameover Scene. Added Lives System.
-	Added Inventory System. Added Sounds. Main Menu Scene. Added new puzzle to unlock a door.
+	Made various changes as per the assignment 9 requirements, as well as alpha test feedback. Added 3 shaders, and
+	multiple forms of writing by creating an opening scene, controls page, and credits page. Made minor quality of life changes as well.
 	
-	UI:
-		Current Player Lives (Top right corner)
-		Inventory System (Bottom left Corner)
+	Shaders:
+		Shader added to trios of ghosts to increase their emission, and provide that natural ghost glow
+		Shader added to ceiling of the map to give a faint blue tint and some roughness to contrast the floor
+		Shader added to cat to give a fur like look instead of a flat cartoon look
 
-	Sounds:
-		Ghost wailing repeatedly
-		Flashlight clicking on or off
-		Door unlocking sound
-		Main Menu Ambient Sound
-		Main Menu Play/Quit Sound
-		Cat Meowing after losing a life
-		Win Scene Ambient Sound
-		Game Over Scene Ambient Sound
-		Dueling Swords Sound
+	UI:
+		Added controls page to main menu
+		Added credits page to main menu
+		Added opening scene that provides the premise and scenario of the game briefly upon application launch
 	
-	The components above come together with respect to gameplay and the theme because the Tom the cat is in a haunted mansion.
-	Inside the haunted mansion Tom sees ghosts, spiders, traps, floating lanterns, a curtain, and many more unusual things.
+	
 
 	What worked and didn't work:
-		The GUI is not scaling properly to the resolution and the best solution is to play the game at a very low resolution.
-		
+		Some sound bugs, i.e. pressing the control and credits button, the spooky sound does not play. Lunge feature was broken
+		and in the process of being fixed. Fixed box colliders as some testers broke free of the environment. Also made overall lighting and UI
+		fixes to make the game more visually appealing. Added another obstacle as well.
 
 
 	
