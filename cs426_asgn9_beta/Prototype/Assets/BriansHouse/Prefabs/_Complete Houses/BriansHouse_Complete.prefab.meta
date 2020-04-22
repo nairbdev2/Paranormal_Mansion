@@ -1,0 +1,30 @@
+fileFormatVersion: 2
+guid: 08fec92c825d94949821167dc15f1820
+labels:
+- suburban
+- fps
+- pbr
+- gameready
+- exterior
+- interior
+- home
+- building
+- house
+- residential
+- residence
+- Building
+- Exterior
+- Fps
+- Gameready
+- Home
+- House
+- Interior
+- Residence
+- Residential
+- Suburban
+timeCreated: 1440539638
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
