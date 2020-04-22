@@ -1,8 +1,8 @@
-# cs426_Group1_Asgn8 (Alpha)
+# cs426_Group1_Asgn9 (Beta)
 
 ## Note
-CS426 Video Game Programming Assignment #8
-Working with AI and Level Design
+CS426 Video Game Programming Assignment #9
+Shaders and Feedback
 
 ## Pre-Requisites
 * Unity Game Engine Installed
