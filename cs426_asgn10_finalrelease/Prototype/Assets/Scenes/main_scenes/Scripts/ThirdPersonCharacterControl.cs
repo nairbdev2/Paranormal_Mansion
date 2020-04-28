@@ -57,12 +57,16 @@ public class ThirdPersonCharacterControl : MonoBehaviour
         if (Input.GetKey(KeyCode.W) || Input.GetKey(KeyCode.D) || Input.GetKey(KeyCode.A) || Input.GetKey(KeyCode.S)) //include space for jump, later. 
         {
             playerMovement();
+
+            if (Input.GetKey(KeyCode.Space))
+            {
+                JumpCat();
+            }
+
+
         }
 
-        if (Input.GetKey(KeyCode.Space))
-        {
-            JumpCat();
-        }
+
         else
         {
             GetComponent<Animator>().CrossFade("Idle", 0f);
