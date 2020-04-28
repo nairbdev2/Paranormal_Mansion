@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e02c3129b54f6cb43a69f2facbdc2cac
+labels:
+- Cabinet
+- Closet
+- Desk
+- Drawer
+- Shelf
+- Wardrobe
+timeCreated: 1447504206
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

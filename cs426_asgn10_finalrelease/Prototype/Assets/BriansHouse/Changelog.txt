@@ -1,0 +1,46 @@
+V1.6
+====
+ - Outdoor models added
+ - New ground texture
+ - Modular fence/Sidewalk
+ - Gazebo
+ - Reorganized project folders (Easily removable 'unrelated' content after demo testing) Delete 'Demo Scenes' folder simply.
+
+V1.5
+====
+- Completely re-worked 2nd version (new layout, new textures)
+- Major mesh topology fixes on 27 models (Ngons, smoothing groups)
+- Interactive furniture replaces the previous static models (all drawers, cabinets can now be opened and their insides are modeled)
+ - Beveled edges (furniture)
+ - Replaced models: Bathtub, armchair pillow
+ - New models: Glass kitchen cabinet, fireplace and props, tablecloth
+ - As requested, kitchen counter can be moved anywhere, backside is modeled (can be opened, too)
+ - Light switch solution implemented completely
+ - 1 unnecessary material removed from previous release
+ - Simplified coding, easy to just delete it (if not needed) and use your own game mechanics
+ - Breakable pottery
+
+V1.3
+====
+ - 2nd variant added
+ - New demo scenes
+ - New prefabs to give even more flexibility when customizing the interior
+ 
+V1.1
+====
+ - Lightmapped demo scene
+ - Garage added (custom audioclip)
+
+V1.0f1
+======
+ Fixed:
+ - Interactable objects got bottom- and undersides
+ - Convex collision meshes imported for interactable models
+ - Prefabs modified
+ - Minor lightmap configurations
+ - Microwave openable
+ Added:
+ - Interactable interior
+ - Models: Teapot, Shelf 4, Toaster wire and plug, landline wire
+ - Kids room theme for Room 1 (additional texture set)
+ - Bokeh light kids room
