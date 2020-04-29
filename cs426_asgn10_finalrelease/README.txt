@@ -39,7 +39,8 @@ Rules:
 
 Summary Assignment #10:
 	Polished the Final Puzzle's look and feel. Added Occlusion Culling in an attempt to increase framerate.
-	Added the Caged Room puzzle. Added Hint onto Mirror. Hid mouse cursor in game.
+	Added the Caged Room puzzle. Added Hint onto Mirror. Hid mouse cursor in game. Added the proper shaders
+	to let certain items pop in the user's vision. 
 	
 
 	
