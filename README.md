@@ -1,4 +1,4 @@
-# cs426_Group9
+# Paranormal Mansion
 
 ## Note
 CS426 Video Game Final Project
