@@ -44,7 +44,7 @@ Rules:
   - Ghost will always alert the Paranormal Detector
 
 Resources:
-  - Lives , Flashlight, Paranormal Detector
+  - Lives , Flashlight
 
 Conflict:
   - Obstacles (Puzzles)
