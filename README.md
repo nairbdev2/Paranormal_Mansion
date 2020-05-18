@@ -18,10 +18,6 @@ Simply go to the 'Output' Folder and double-click on 'Prototype' (Later to be im
 ## Resource Links Used
 TextMeshPro
 
-## Models / Textures  
-
-## Shaders
-
 ## Formal Elements
 Player Interaction Pattern: Single-player Vs. Game
 
